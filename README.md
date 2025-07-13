@@ -11,7 +11,7 @@ This dashboard helps the client make **data-driven decisions** around content cr
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="Assets/edtech_dashboard_preview.png" width="800" alt="Recorded Lecture Dashboard Screenshot"/>
+  <img src="/edtech_dashboard_preview.png" width="800" alt="Recorded Lecture Dashboard Screenshot"/>
 </p>
 ---
 
