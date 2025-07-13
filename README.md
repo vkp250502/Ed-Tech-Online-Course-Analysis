@@ -15,6 +15,14 @@ This dashboard helps the client make **data-driven decisions** around content cr
 </p>
 
 ---
+## 📂 Dataset
+
+The dataset used in this project is publicly available on Kaggle:
+
+🔗 [Online Courses Dataset – Kaggle](https://www.kaggle.com/datasets/khaledatef1/online-courses)
+
+This dataset contains key attributes like course title, category, subcategory, language, number of views, duration, skills, ratings, and instructor information.
+
 
 ## 🎯 Project Objectives
 
